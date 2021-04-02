@@ -8,4 +8,10 @@ Created on Fri Apr  2 10:22:27 2021
 
 print("Hello David")
 
+# python lists
 
+train = ["mon", 5, "tue", 6.3, "wed", 5, "thu", 0, "fri", 5.3 ]
+print(train)
+print(type(train))
+
+print(train[1]) # subsetting list
